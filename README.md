@@ -1,0 +1,1 @@
+# FWC_GenAI_Hakathon
